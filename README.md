@@ -1,3 +1,9 @@
+
+
+<img width="1863" height="614" alt="image" src="https://github.com/user-attachments/assets/402122b4-45d8-413e-a386-36913c092ba3" />
+
+
+
 ## NITC Campus OSM Scene Setup
 
 This guide walks you through opening the `base_osm_model.blend` scene. Follow the steps in order the first time you configure the project.
